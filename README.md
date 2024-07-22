@@ -101,7 +101,7 @@ IV) **EXPLORATORY DATA ANALYSIS**
 
 In the EDA, I focus on analyzing the characteristics, behaviors, pattern and trends based on these criterions:
 
-Questions:
+**Questions:**
 
 *Business Performance*
 
@@ -202,7 +202,7 @@ around 0.51 in 2017 Quarter 3 September and gradually decreased to 0.40 in 2017 
 5. The report covers orders from 01/01/2015 to shipments on 03/01/2015 and beyond. First Class is the first shipment 
 mode listed. Puerto Rico is the first warehouse country listed. Total shipment schedule days is 74,869.
 
-A supply chain will consist of three main components: suppliers - company - customers.
+**_A supply chain will consist of three main components: suppliers - company - customers_**
 
 The supply chain starts with the suppliers who provide the products that the e-commerce company will sell. These could include manufacturers, distributors, or wholesalers. Supplier relationships, quality control, and timely deliveries are crucial in this supplier network. Here, we will be interested in average order fulfillment
 
