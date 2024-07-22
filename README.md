@@ -179,7 +179,7 @@ quantity both increased from 2015 to 2016.
 costs vary across different product departments, with Apparel and Fan Shop showing higher values followed by 
 Book Shop, Discs Shop, Fan Shop and Fitness.
 
-2. The top 3 products by inventory cost per unit are Hirzl Men's Hybrid Golf Glove, Nike Women's Legend V-Neck TShirt, and Merrell Women's Grassbow Sport Waterproof Hik.
+2. The top 3 products by inventory cost per unit are Hirzl Men's Hybrid Golf Glove, Nike Women's Legend V-Neck T-Shirt, and Merrell Women's Grassbow Sport Waterproof Hik.
 
 3. Apparel, Fan Shop, and Golf have the highest storage costs, while Fitness has the lowest.
    
@@ -188,7 +188,7 @@ per unit is 4.95K, and storage cost is 81.75K.
 
 **_Insights from Shipment Management_**
 
-1. Delays are visible across various departments, with the Fan Shop, Fitness, and Discs Shop showing the highest ontime delivery rates. While Technology, Apparel, Footwear, Golf and Outdoors have more late than on-time
+1. Delays are visible across various departments, with the Fan Shop, Fitness, and Discs Shop showing the highest on-time delivery rates. While Technology, Apparel, Footwear, Golf and Outdoors have more late than on-time
 
 2. Most countries have more on-time than late shipments, but some like USA, Mexico, France, Germany, and Brazil 
 show significant late shipments, indicating potential issues in the logistics chain in these regions.
@@ -212,3 +212,22 @@ Once customers place orders, the e-commerce platform's order processing team ver
 
 Overall, for the whole supply chain to work efficiently, demand forecasting plays a significant role in supply chain optimization. Historical sales data, customer trends, and market insights can help forecast demand accurately, reducing stockouts and excess inventory. We will also consider the demand and supply of the products.
 
+Results :
+
+After doing business demand analysis
+
+License :
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+References :
+
+https://www.youtube.com/watch?v=FxaxuWs2XR0
+
+https://www.youtube.com/watch?v=raqi4gjMLm8&list=PLnD8JdB5BhfQAqqcyN7fe0posEQX9rvwO
+
+https://youtu.be/fhsgpAxGa0w?si=ya06u_2vYZfgT93R
+
+Contact If you have any questions, suggestions, or feedback, feel free to contact me.
+
+Email ID : vsanisha8@gmail.com
