@@ -214,8 +214,8 @@ Overall, for the whole supply chain to work efficiently, demand forecasting play
 
 Results :
 
-After doing business demand analysis
-
+After doing business demand analysis,data preprocessing including data cleaning,feature creation and finally exploratory data analysis, built three reports on Business Performance, Inventory Management and Shipment Management,gained various insights from it and by doing that,it leads to recognize **Business Downturn/Deficiencies** such as _Variability in Net Sales and Profit Margins_ and _Dependency on a Few Key Departments_ and **Inventory Management Deficiencies** such as _High Inventory Cost per Unit for Certain Products_ , _High Storage Costs for Specific Departments_ and _Inventory Management Gaps_ and finally **Shipment Management Deficiencies** such as _High Late Shipment Rate_ , _Geographical Late Shipment Issues_ and _Variability in On-time Delivery by Product Department_ . By doing so,I could provide recommendations for improve the smooth flow of supply chain. And those are _Enhancement of Shipment Tracking and Management_ , _Optimizing Inventory Levels and Storage Costs_ , _Diversification of Product Department Strategies_ and finally  _Improving the Cost Management_ .
+ 
 License :
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
